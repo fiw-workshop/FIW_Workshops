@@ -5,3 +5,7 @@ dieser Quelle genutzt werden. Die Datensätze die für das Notebook benötigt we
 Das andere Notebook wurde genutzt um die Datensätze von StackOverflow zu analysieren und einen weiten Dataframe aus den gewonnenen Daten zu
 erstellen. Die Datensätze hierfür befinden sich nicht in dem Ordner, da sie sehr groß sind. Sie befinden sich auf StackOverflow und sind 
 dort die Jahre 2017-2021.
+
+#Ich Statement Progressive Web App
+
+Die Ich Statement Progressive Web App ist eine PWA die den BenutzerInnen erlaubt spielerisch sogenannte Ich-Statements zu generieren, um die gewaltfreie Kommunikation zu fördern.

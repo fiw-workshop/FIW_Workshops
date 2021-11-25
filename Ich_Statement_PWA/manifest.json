@@ -1,0 +1,20 @@
+{
+  "name": "Ich Statement Generator",
+  "short_name": "Ich Statement",
+  "start_url": ".",
+  "background_color": "#FFF5ED",
+  "theme_color": "#FFF5ED",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/I_Statement_Logo_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/I_Statement_Logo_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
