@@ -9,3 +9,7 @@ dort die Jahre 2017-2021.
 # Ich Statement Progressive Web App
 
 Die Ich Statement Progressive Web App ist eine PWA die den BenutzerInnen erlaubt spielerisch sogenannte Ich-Statements zu generieren, um die gewaltfreie Kommunikation zu fördern.
+
+# 3D-Visualisierung 
+
+Verarbeitung und Visualisierung von Bildstapeln werden zu 3D-Kopf Modell rekonstruiert. 
