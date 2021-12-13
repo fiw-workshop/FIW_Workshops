@@ -12,4 +12,4 @@ Die Ich Statement Progressive Web App ist eine PWA die den BenutzerInnen erlaubt
 
 # 3D-Visualisierung 
 
-Verarbeitung und Visualisierung von Bildstapeln werden zu 3D-Kopf Modell rekonstruiert. 
+Verarbeitung und Visualisierung von Bildstapeln werden zu 3D-Schulter  Modell rekonstruiert. 
